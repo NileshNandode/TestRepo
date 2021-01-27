@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 8074-F5B3
+
+ Directory of F:\Work
+
+27/01/2021  01:58 PM    <DIR>          .
+27/01/2021  01:58 PM    <DIR>          ..
+27/01/2021  01:58 PM                 0 first.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  118,016,733,184 bytes free
